@@ -1,6 +1,11 @@
-# Black Hole Cleaner
-
-一款高效的 node_modules 清理工具，帮助您释放宝贵的磁盘空间。
+<p align="center">
+  <img src="public/app-icon.png" width="150px" align="center" alt="Zod logo" />
+  <h1 align="center">Black Hole Cleaner</h1>
+  <p align="center">
+    一款高效的 node_modules 清理工具，帮助您释放宝贵的磁盘空间
+  </p>
+</p>
+<br/>
 
 ![应用截图](public/snapshot.png)
 
